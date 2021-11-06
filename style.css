@@ -1,0 +1,35 @@
+.pink-bg {
+    background-color: #fceae8;
+    ;
+}
+
+.catagories img {
+    width: 100px;
+}
+
+.panda-btn-buy-now {
+    background-image: linear-gradient(60deg, rgb(204, 41, 204), #2784db 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+.price {
+    display: inline-block;
+    padding-left: 25px;
+
+}
+
+.subcribe-bg-info {
+    background-color: #fceae8;
+    ;
+}
+
+.panda-btn-submit {
+    background-image: linear-gradient(80deg, #05CCFD, #3582D8);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
